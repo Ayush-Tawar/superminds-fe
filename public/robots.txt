@@ -1,0 +1,20 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /_next
+Disallow: /manager
+Disallow: /api-docs
+Disallow: /cdn-cgi
+Disallow: /login
+Disallow: /auth
+Disallow: /auth/signin
+Disallow: /assets
+
+# Host
+Host: https://superminds.dev/
+
+# Sitemaps
+Sitemap: https://superminds.dev/sitemap.xml

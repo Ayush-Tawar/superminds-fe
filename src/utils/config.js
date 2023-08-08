@@ -1,0 +1,1 @@
+export const CAPTCHA_SECRET_KEY = "6Lfeh3YmAAAAAPUaD1639bccsFKGcdX04iNY_IXW";
